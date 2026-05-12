@@ -1,6 +1,8 @@
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-mysql-connector-python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter
+MySQL-Connector-Python
+Power-BI
+MySQL
