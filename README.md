@@ -1,7 +1,7 @@
 # Motor Vehicle Theft Analysis
 
 ## Project Overview
-This project focuses on analyzing motor vehicle theft data using **Python, MySQL, and Power BI** to identify theft patterns, regional trends, and high-risk vehicle categories. The project includes data cleaning, exploratory data analysis, SQL-based business analysis, and an interactive dashboard for visualization.
+This project focuses on analyzing motor vehicle theft data using **Python, MySQL, and Power BI** to identify theft patterns, regional trends, and high-risk vehicle categories. The project includes data cleaning, exploratory data analysis, SQL-based analysis, and an interactive dashboard for visualization.
 
 The objective of this project is to transform raw theft data into meaningful insights that can support better decision-making and theft prevention strategies.
 
